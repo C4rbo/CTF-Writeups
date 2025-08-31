@@ -6,5 +6,13 @@ Collection of my write-ups from CyberDefenders
 
 | Name | My Rating 
 |----------|----------
+| DanaBot Lab | ⭐⭐⭐
 | XLMRat Lab  | ⭐⭐⭐⭐
 | Web Investigation Lab | ⭐⭐⭐⭐
+
+## Threat Intel
+
+| Name | My Rating
+|----------|----------
+| Red Stealer Lab | ⭐⭐⭐⭐
+
