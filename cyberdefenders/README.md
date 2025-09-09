@@ -21,5 +21,6 @@ Collection of my write-ups from CyberDefenders
 | Name | My Rating
 |----------|----------
 | Amadey Lab | ⭐⭐⭐⭐⭐
+| The Crime Lab | ⭐⭐⭐⭐⭐ 
 
 > I'll upload only cool challenges
