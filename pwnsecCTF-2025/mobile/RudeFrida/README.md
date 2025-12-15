@@ -266,6 +266,6 @@ Rebuild everything with **apktool** and then re-sign the app using **objection**
 adb logcat | grep RudeFrida  # since the flag is printed in logcat
 ```
 
-![](/img/flag.png)
+![image](img/flag.png)
 
 ~ Carbo
